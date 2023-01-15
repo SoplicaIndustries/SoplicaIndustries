@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [WOMBAT](https://github.com/SoplicaIndustries/WOMBAT)  
   
 
-- 🌱 I’m currently learning C# and PHP  
+- 🌱 I’m currently learning C#, C++ and PHP  
   
 
 <br/>  
