@@ -1,4 +1,4 @@
-### <div align="center">I'm Kacper, a backend/full-stack developer</div>  
+### <div align="center">Hi, I'm Kacper. I'm a full-stack developer</div>  
   
 
 - 🔭 I’m currently working on [WOMBAT](https://github.com/SoplicaIndustries/WOMBAT)  
