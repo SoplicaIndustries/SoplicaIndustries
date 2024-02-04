@@ -1,14 +1,4 @@
 ### <div align="center">Hi, I'm Kacper. I'm a full-stack developer</div>  
-  
-
-- 🔭 I’m currently working on [WOMBAT](https://github.com/SoplicaIndustries/WOMBAT)  
-  
-
-- 🌱 I’m currently learning C#, C++ and PHP  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
